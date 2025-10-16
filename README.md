@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohsin Gul
 
-**Computer Science Engineer | Full Stack Developer | Graphic Designer**  
+**Computer Science Engineer | App Developer | Graphic Designer**  
 📍 India
 
 ---
